@@ -4,7 +4,7 @@
 
 - Lugar: CEPS-UNI
 - Horario: VIERNES de 2 pm a 6 pm
-- Inicio: 04-MARZO-2016
+- Inicio: 11-MARZO-2016
 - Dirección: https://goo.gl/maps/FvheiZsxDDy
 - Contenido: http://www.ceps.uni.edu.pe/doc_web/programas/programacion/des_apli_con_jdbc.html
 - Página: http://gcoronelc.github.io/CEPSUNI_JDBC_002/
@@ -29,7 +29,7 @@
 
 # CLASE 01 
 
-- Fecha: 04-MARZO-2016
+- Fecha: 11-MARZO-2016
 
 
 
