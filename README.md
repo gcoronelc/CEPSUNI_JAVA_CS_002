@@ -14,7 +14,7 @@
 - Blog: www.desarrollasoftware.com
 - Correo: gcoronelc@gmail.com
 
-#RECURSOS
+# RECURSOS
 
 ## RECURSOS RECOMENDADOS
 
