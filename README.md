@@ -1,4 +1,4 @@
-![JAVA CLIENTE-SERVIDOR](https://raw.githubusercontent.com/gcoronelc/CEPSUNI_JDBC_002/master/jdbc02.png)
+![JAVA CLIENTE-SERVIDOR](https://raw.githubusercontent.com/gcoronelc/CEPSUNI_JDBC_002/master/jdbc022.png)
 
 # DESARROLLADOR DE APLICACIONES JAVA CLIENTE-SERVIDOR
 
