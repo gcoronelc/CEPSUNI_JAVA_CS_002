@@ -1,10 +1,12 @@
-![JAVA CLIENTE-SERVIDOR](https://raw.githubusercontent.com/gcoronelc/CEPSUNI_JDBC_002/master/jdbc022.png)
+![JAVA CLIENTE-SERVIDOR](https://raw.githubusercontent.com/gcoronelc/CEPSUNI_JDBC_002/master/jdbc023.png)
+![JAVA CLIENTE-SERVIDOR](https://raw.githubusercontent.com/gcoronelc/CEPSUNI_JDBC_002/master/PensandoEnServicios.png)
+
 
 # DESARROLLADOR DE APLICACIONES JAVA CLIENTE-SERVIDOR
 
 - Lugar: CEPS-UNI
 - Horario: SABADOS de 8 a 13 Horas
-- Inicio: 17-JUNIO-2017
+- Inicio: 15-JULIO-2017
 - Dirección: https://goo.gl/maps/FvheiZsxDDy
 - Página: http://gcoronelc.github.io/CEPSUNI_JDBC_002/
 
